@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-GL67Apps/GL67Apps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Stoneheads67/Stoneheads67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
